@@ -1,4 +1,3 @@
-# Yuri Machado
 
 ### Full Stack Python/Php
 
