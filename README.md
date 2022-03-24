@@ -1,6 +1,7 @@
 
 ### Full Stack Python/Php
 
+ - 🚀 Working at <a href="https://gohusky.net/">Husky!</a>
  - 👋 Hi, I’m Yuri Machado
  - 👀 I’m interested in HTML, CSS, JavaScript, Python, Php, SQL
  - 💞️ I’m looking to collaborate on Front-end and Back-end
