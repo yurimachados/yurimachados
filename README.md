@@ -4,7 +4,7 @@
  Here you will find projects that I've developed. Feel free to explore my profile and get in touch if you have any questions or suggestions. Thank you for visiting! ✌️
 <br><br>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-machado-silveira-16a5aa186/) [![whats app](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551992391615)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-machado-silveira-16a5aa186/)
 
 <br><br>
 
