@@ -6,14 +6,6 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-machado-silveira-16a5aa186/)
 
-<br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurimachados&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurimachados&show_icons=true&theme=onedark)
-
-<br><br>
-
 ### 🖥️ Technologies I use on a daily basis.
 
 <div style='display: inline-block'><br>
